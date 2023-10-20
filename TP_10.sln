@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TP10-main", "TP10-main", "{2CC66A11-635F-4EA3-88FA-CAD295D42C45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP10", "TP10-main\TP10\TP10.csproj", "{AF4B9A38-AF30-44BA-A7D9-3E5FBA41D4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4B9A38-AF30-44BA-A7D9-3E5FBA41D4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4B9A38-AF30-44BA-A7D9-3E5FBA41D4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4B9A38-AF30-44BA-A7D9-3E5FBA41D4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4B9A38-AF30-44BA-A7D9-3E5FBA41D4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF4B9A38-AF30-44BA-A7D9-3E5FBA41D4BA} = {2CC66A11-635F-4EA3-88FA-CAD295D42C45}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {646EEBF6-652F-4136-A350-9EB267418C6E}
+	EndGlobalSection
+EndGlobal
